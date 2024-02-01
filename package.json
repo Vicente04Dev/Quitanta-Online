@@ -1,0 +1,15 @@
+{
+  "name": "loja-virtual",
+  "version": "1.0.0",
+  "description": "Um design simples onde desenvolve o frontend de uma loja virtual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wilson Vicente",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
