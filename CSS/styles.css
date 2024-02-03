@@ -13,7 +13,19 @@ p.line3 {
     overflow: hidden;
     text-overflow: ellipsis;
 }
-
+.green{
+    background-color: green;
+}
+.btn-danger{
+    background-color: green;
+    color: #fff;
+    border-color: white;
+}
+.btn-danger:hover{
+    background-color: rgb(13, 211, 13);
+    color: #fff;
+    border-color: green;
+}
 @media screen and (max-width: 469px) {
     .mt-xs-3 {
         margin-top: 1rem;
@@ -77,5 +89,5 @@ fieldset.row .form-floating>label {
 
 /* adicionado para deixar links de paginação em vermelho */
 .page-link {
-    color: var(--bs-danger);
+    color: green;
 }
